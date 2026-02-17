@@ -1,0 +1,15 @@
+name: gpr6-rdkit-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+      - streamlit
+      - joblib
+      - matplotlib
+      - seaborn
