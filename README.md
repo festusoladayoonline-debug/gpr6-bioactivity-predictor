@@ -1,7 +1,6 @@
-# gpr6-bioactivity-predictor
-GPR6 Bioactivity Prediction Web App
 
-# GPR6 Bioactivity Predictor
+
+# GPR6 Bioactivity Predictor Web App
 
 A machine learning web application for predicting pIC50 values of compounds against GPR6 (G-protein coupled receptor 6).
 
